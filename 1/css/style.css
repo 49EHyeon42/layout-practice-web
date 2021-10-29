@@ -1,0 +1,54 @@
+header {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+nav {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+.content {
+    height: 350px;
+    width: 600px;
+    text-align: center;
+    border: 1px solid #000;
+    float: left;
+    padding-top: 50px;
+}
+
+.content>section {
+    height: 150px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000;
+}
+
+.content>article {
+    height: 150px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000;
+}
+
+aside {
+    height: 400px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid #000;
+    float: left;
+}
+
+footer {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    border: 1px solid #000;
+    float: left;
+}
